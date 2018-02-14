@@ -1,15 +1,16 @@
-# LuaTest
+ï»¿# LuaTest
 
-LuaTinkerE¸¦ Å×½ºÆ® ÇÏ±â À§ÇØ ¸¸µç ÄÚµå
+LuaTinkerEë¥¼ í…ŒìŠ¤íŠ¸ í•˜ê¸° ìœ„í•´ ë§Œë“  ì½”ë“œ
 
-Å×½ºÆ® ÇÑ »ç¿ë ¼Ò½º 
+í…ŒìŠ¤íŠ¸ í•œ ì‚¬ìš© ì†ŒìŠ¤ 
 
 LuaTinkerE
 
 https://github.com/yanwei1983/luatinkerE 
 
-Lua 5.3.4 lib ÆÄÀÏ
+Lua 5.3.4 lib íŒŒì¼
 
 https://sourceforge.net/projects/luabinaries/files/5.3.4/Windows%20Libraries/Static/lua-5.3.4_Win64_vc14_lib.zip/download
 
+64ë¹„íŠ¸ ë¹Œë“œ ë²„ì „ìœ¼ë¡œ í…ŒìŠ¤íŠ¸í•œ ì½”ë“œ
 
